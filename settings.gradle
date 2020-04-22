@@ -1,0 +1,2 @@
+rootProject.name='baidupro'
+include ':app'
